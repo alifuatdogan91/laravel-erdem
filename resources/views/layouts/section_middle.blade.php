@@ -13,7 +13,7 @@
                         </div>
                     </div>
                     <div class="col-4 d-flex align-items-center">
-                        <img src="{{ asset('storage/1.png') }}" alt="" class="img-fluid w-100 h-100" style="object-fit: cover;">
+                        <img src="{{ asset('storage/1.webp') }}" alt="" class="img-fluid w-100 h-100" style="object-fit: cover;">
                     </div>
                 </div>
             </div>
